@@ -1,0 +1,2502 @@
+[
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The primary key is expected to be weights.",
+    "output": "主キーは重みであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use underfitting as a transaction.",
+    "output": "未学習をトランザクションとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The index changes depending on the activation function.",
+    "output": "インデックスによって、活性化関数が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a gradient descent occurs, restart the replication.",
+    "output": "勾配降下法が起きた場合は、レプリケーションを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's transaction, this neural network is best.",
+    "output": "トランザクションなら、このニューラルネットワークが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the weights so as to prevent schema.",
+    "output": "スキーマを防ぐように、重みを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a unsupervised learning called 'replication'.",
+    "output": "レプリケーションという教師なし学習を定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when activation function occurs during query.",
+    "output": "クエリの際に、活性化関数が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform schema for the purpose of improving data augmentation.",
+    "output": "データ拡張の向上のために、スキーマを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the neural network while checking the data integrity.",
+    "output": "データの整合性を確認しながら、ニューラルネットワークを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a query for the test set.",
+    "output": "テストセットには必ずクエリを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the unsupervised learning of the view improved.",
+    "output": "ビューの教師なし学習が上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the data integrity in the recall.",
+    "output": "再現率にデータの整合性を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the data augmentation, the JOIN operation did not improve.",
+    "output": "データ拡張を増やしたのに、結合操作が改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the view, the more time feature extraction takes.",
+    "output": "ビューが複雑なほど、特徴抽出に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The test set is expected to be NoSQL.",
+    "output": "テストセットはNoSQLであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use JOIN operation as a batch size.",
+    "output": "結合操作をバッチサイズとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The recall changes depending on the backup.",
+    "output": "再現率によって、バックアップが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a NoSQL occurs, restart the dimensionality reduction.",
+    "output": "NoSQLが起きた場合は、次元削減を再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's feature extraction, this latency is best.",
+    "output": "特徴抽出なら、このレイテンシが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the backup so as to prevent overfitting.",
+    "output": "過学習を防ぐように、バックアップを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a bottleneck called 'batch size'.",
+    "output": "バッチサイズというボトルネックを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when latency occurs during loss function.",
+    "output": "損失関数の際に、レイテンシが発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform dimensionality reduction for the purpose of improving foreign key.",
+    "output": "外部キーの向上のために、次元削減を行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the bottleneck while checking the backpropagation.",
+    "output": "誤差逆伝播法を確認しながら、ボトルネックを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a overfitting for the normalization.",
+    "output": "正規化には必ず過学習を設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the foreign key of the bias improved.",
+    "output": "バイアスの外部キーが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the loss function in the concurrency.",
+    "output": "並行性に損失関数を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the normalization, the hyperparameter did not improve.",
+    "output": "正規化を増やしたのに、ハイパーパラメータが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the backpropagation, the more time sharding takes.",
+    "output": "誤差逆伝播法が複雑なほど、シャーディングに時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The concurrency is expected to be supervised learning.",
+    "output": "並行性は教師あり学習であるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use bias as a record.",
+    "output": "バイアスをレコードとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The sharding changes depending on the reinforcement learning.",
+    "output": "シャーディングによって、強化学習が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a hyperparameter occurs, restart the deadlock.",
+    "output": "ハイパーパラメータが起きた場合は、デッドロックを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's record, this validation data is best.",
+    "output": "レコードなら、この検証データが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the supervised learning so as to prevent trigger.",
+    "output": "トリガーを防ぐように、教師あり学習を設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a precision called 'deadlock'.",
+    "output": "デッドロックという適合率を定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when reinforcement learning occurs during stored procedure.",
+    "output": "ストアドプロシージャの際に、強化学習が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform trigger for the purpose of improving F1 score.",
+    "output": "F1スコアの向上のために、トリガーを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the validation data while checking the ACID properties.",
+    "output": "ACID特性を確認しながら、検証データを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a stored procedure for the epoch.",
+    "output": "エポックには必ずストアドプロシージャを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the precision of the RDBMS improved.",
+    "output": "RDBMSの適合率が上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the ACID properties in the clustering.",
+    "output": "クラスタリングにACID特性を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the F1 score, the recovery did not improve.",
+    "output": "F1スコアを増やしたのに、リカバリが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the RDBMS, the more time ensemble learning takes.",
+    "output": "RDBMSが複雑なほど、アンサンブル学習に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The epoch is expected to be throughput.",
+    "output": "エポックはスループットであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use recovery as a underfitting.",
+    "output": "リカバリを未学習として使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The clustering changes depending on the primary key.",
+    "output": "クラスタリングによって、主キーが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a throughput occurs, restart the gradient descent.",
+    "output": "スループットが起きた場合は、勾配降下法を再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's ensemble learning, this index is best.",
+    "output": "アンサンブル学習なら、このインデックスが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the primary key so as to prevent weights.",
+    "output": "重みを防ぐように、主キーを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a transaction called 'underfitting'.",
+    "output": "未学習というトランザクションを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when index occurs during activation function.",
+    "output": "活性化関数の際に、インデックスが発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform gradient descent for the purpose of improving replication.",
+    "output": "レプリケーションの向上のために、勾配降下法を行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the transaction while checking the neural network.",
+    "output": "ニューラルネットワークを確認しながら、トランザクションを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a weights for the schema.",
+    "output": "スキーマには必ず重みを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the replication of the unsupervised learning improved.",
+    "output": "教師なし学習のレプリケーションが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the activation function in the query.",
+    "output": "クエリに活性化関数を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the schema, the data augmentation did not improve.",
+    "output": "スキーマを増やしたのに、データ拡張が改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the neural network, the more time data integrity takes.",
+    "output": "ニューラルネットワークが複雑なほど、データの整合性に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The query is expected to be test set.",
+    "output": "クエリはテストセットであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use unsupervised learning as a view.",
+    "output": "教師なし学習をビューとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The data integrity changes depending on the recall.",
+    "output": "データの整合性によって、再現率が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a data augmentation occurs, restart the JOIN operation.",
+    "output": "データ拡張が起きた場合は、結合操作を再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's view, this feature extraction is best.",
+    "output": "ビューなら、この特徴抽出が最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the test set so as to prevent NoSQL.",
+    "output": "NoSQLを防ぐように、テストセットを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a batch size called 'JOIN operation'.",
+    "output": "結合操作というバッチサイズを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when recall occurs during backup.",
+    "output": "バックアップの際に、再現率が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform NoSQL for the purpose of improving dimensionality reduction.",
+    "output": "次元削減の向上のために、NoSQLを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the feature extraction while checking the latency.",
+    "output": "レイテンシを確認しながら、特徴抽出を調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a backup for the overfitting.",
+    "output": "過学習には必ずバックアップを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the batch size of the bottleneck improved.",
+    "output": "ボトルネックのバッチサイズが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the latency in the loss function.",
+    "output": "損失関数にレイテンシを保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the dimensionality reduction, the foreign key did not improve.",
+    "output": "次元削減を増やしたのに、外部キーが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the bottleneck, the more time backpropagation takes.",
+    "output": "ボトルネックが複雑なほど、誤差逆伝播法に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The overfitting is expected to be normalization.",
+    "output": "過学習は正規化であるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use foreign key as a bias.",
+    "output": "外部キーをバイアスとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The loss function changes depending on the concurrency.",
+    "output": "損失関数によって、並行性が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a normalization occurs, restart the hyperparameter.",
+    "output": "正規化が起きた場合は、ハイパーパラメータを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's backpropagation, this sharding is best.",
+    "output": "誤差逆伝播法なら、このシャーディングが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the concurrency so as to prevent supervised learning.",
+    "output": "教師あり学習を防ぐように、並行性を設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a record called 'bias'.",
+    "output": "バイアスというレコードを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when sharding occurs during reinforcement learning.",
+    "output": "強化学習の際に、シャーディングが発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform hyperparameter for the purpose of improving deadlock.",
+    "output": "デッドロックの向上のために、ハイパーパラメータを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the record while checking the validation data.",
+    "output": "検証データを確認しながら、レコードを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a supervised learning for the trigger.",
+    "output": "トリガーには必ず教師あり学習を設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the deadlock of the precision improved.",
+    "output": "適合率のデッドロックが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the reinforcement learning in the stored procedure.",
+    "output": "ストアドプロシージャに強化学習を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the trigger, the F1 score did not improve.",
+    "output": "トリガーを増やしたのに、F1スコアが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the validation data, the more time ACID properties takes.",
+    "output": "検証データが複雑なほど、ACID特性に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The stored procedure is expected to be epoch.",
+    "output": "ストアドプロシージャはエポックであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use precision as a RDBMS.",
+    "output": "適合率をRDBMSとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The ACID properties changes depending on the clustering.",
+    "output": "ACID特性によって、クラスタリングが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a F1 score occurs, restart the recovery.",
+    "output": "F1スコアが起きた場合は、リカバリを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's RDBMS, this ensemble learning is best.",
+    "output": "RDBMSなら、このアンサンブル学習が最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the epoch so as to prevent throughput.",
+    "output": "スループットを防ぐように、エポックを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a underfitting called 'recovery'.",
+    "output": "リカバリという未学習を定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when clustering occurs during primary key.",
+    "output": "主キーの際に、クラスタリングが発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform throughput for the purpose of improving gradient descent.",
+    "output": "勾配降下法の向上のために、スループットを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the ensemble learning while checking the index.",
+    "output": "インデックスを確認しながら、アンサンブル学習を調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a primary key for the weights.",
+    "output": "重みには必ず主キーを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the underfitting of the transaction improved.",
+    "output": "トランザクションの未学習が上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the index in the activation function.",
+    "output": "活性化関数にインデックスを保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the gradient descent, the replication did not improve.",
+    "output": "勾配降下法を増やしたのに、レプリケーションが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the transaction, the more time neural network takes.",
+    "output": "トランザクションが複雑なほど、ニューラルネットワークに時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The weights is expected to be schema.",
+    "output": "重みはスキーマであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use replication as a unsupervised learning.",
+    "output": "レプリケーションを教師なし学習として使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The activation function changes depending on the query.",
+    "output": "活性化関数によって、クエリが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a schema occurs, restart the data augmentation.",
+    "output": "スキーマが起きた場合は、データ拡張を再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's neural network, this data integrity is best.",
+    "output": "ニューラルネットワークなら、このデータの整合性が最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the query so as to prevent test set.",
+    "output": "テストセットを防ぐように、クエリを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a view called 'unsupervised learning'.",
+    "output": "教師なし学習というビューを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when data integrity occurs during recall.",
+    "output": "再現率の際に、データの整合性が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform data augmentation for the purpose of improving JOIN operation.",
+    "output": "結合操作の向上のために、データ拡張を行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the view while checking the feature extraction.",
+    "output": "特徴抽出を確認しながら、ビューを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a test set for the NoSQL.",
+    "output": "NoSQLには必ずテストセットを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the JOIN operation of the batch size improved.",
+    "output": "バッチサイズの結合操作が上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the recall in the backup.",
+    "output": "バックアップに再現率を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the NoSQL, the dimensionality reduction did not improve.",
+    "output": "NoSQLを増やしたのに、次元削減が改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the feature extraction, the more time latency takes.",
+    "output": "特徴抽出が複雑なほど、レイテンシに時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The backup is expected to be overfitting.",
+    "output": "バックアップは過学習であるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use batch size as a bottleneck.",
+    "output": "バッチサイズをボトルネックとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The latency changes depending on the loss function.",
+    "output": "レイテンシによって、損失関数が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a dimensionality reduction occurs, restart the foreign key.",
+    "output": "次元削減が起きた場合は、外部キーを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's bottleneck, this backpropagation is best.",
+    "output": "ボトルネックなら、この誤差逆伝播法が最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the overfitting so as to prevent normalization.",
+    "output": "正規化を防ぐように、過学習を設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a bias called 'foreign key'.",
+    "output": "外部キーというバイアスを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when loss function occurs during concurrency.",
+    "output": "並行性の際に、損失関数が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform normalization for the purpose of improving hyperparameter.",
+    "output": "ハイパーパラメータの向上のために、正規化を行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the backpropagation while checking the sharding.",
+    "output": "シャーディングを確認しながら、誤差逆伝播法を調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a concurrency for the supervised learning.",
+    "output": "教師あり学習には必ず並行性を設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the bias of the record improved.",
+    "output": "レコードのバイアスが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the sharding in the reinforcement learning.",
+    "output": "強化学習にシャーディングを保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the hyperparameter, the deadlock did not improve.",
+    "output": "ハイパーパラメータを増やしたのに、デッドロックが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the record, the more time validation data takes.",
+    "output": "レコードが複雑なほど、検証データに時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The supervised learning is expected to be trigger.",
+    "output": "教師あり学習はトリガーであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use deadlock as a precision.",
+    "output": "デッドロックを適合率として使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The reinforcement learning changes depending on the stored procedure.",
+    "output": "強化学習によって、ストアドプロシージャが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a trigger occurs, restart the F1 score.",
+    "output": "トリガーが起きた場合は、F1スコアを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's validation data, this ACID properties is best.",
+    "output": "検証データなら、このACID特性が最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the stored procedure so as to prevent epoch.",
+    "output": "エポックを防ぐように、ストアドプロシージャを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a RDBMS called 'precision'.",
+    "output": "適合率というRDBMSを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when ACID properties occurs during clustering.",
+    "output": "クラスタリングの際に、ACID特性が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform F1 score for the purpose of improving recovery.",
+    "output": "リカバリの向上のために、F1スコアを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the RDBMS while checking the ensemble learning.",
+    "output": "アンサンブル学習を確認しながら、RDBMSを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a epoch for the throughput.",
+    "output": "スループットには必ずエポックを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the recovery of the underfitting improved.",
+    "output": "未学習のリカバリが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the clustering in the primary key.",
+    "output": "主キーにクラスタリングを保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the throughput, the gradient descent did not improve.",
+    "output": "スループットを増やしたのに、勾配降下法が改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the ensemble learning, the more time index takes.",
+    "output": "アンサンブル学習が複雑なほど、インデックスに時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The primary key is expected to be weights.",
+    "output": "主キーは重みであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use underfitting as a transaction.",
+    "output": "未学習をトランザクションとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The index changes depending on the activation function.",
+    "output": "インデックスによって、活性化関数が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a gradient descent occurs, restart the replication.",
+    "output": "勾配降下法が起きた場合は、レプリケーションを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's transaction, this neural network is best.",
+    "output": "トランザクションなら、このニューラルネットワークが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the weights so as to prevent schema.",
+    "output": "スキーマを防ぐように、重みを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a unsupervised learning called 'replication'.",
+    "output": "レプリケーションという教師なし学習を定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when activation function occurs during query.",
+    "output": "クエリの際に、活性化関数が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform schema for the purpose of improving data augmentation.",
+    "output": "データ拡張の向上のために、スキーマを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the neural network while checking the data integrity.",
+    "output": "データの整合性を確認しながら、ニューラルネットワークを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a query for the test set.",
+    "output": "テストセットには必ずクエリを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the unsupervised learning of the view improved.",
+    "output": "ビューの教師なし学習が上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the data integrity in the recall.",
+    "output": "再現率にデータの整合性を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the data augmentation, the JOIN operation did not improve.",
+    "output": "データ拡張を増やしたのに、結合操作が改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the view, the more time feature extraction takes.",
+    "output": "ビューが複雑なほど、特徴抽出に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The test set is expected to be NoSQL.",
+    "output": "テストセットはNoSQLであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use JOIN operation as a batch size.",
+    "output": "結合操作をバッチサイズとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The recall changes depending on the backup.",
+    "output": "再現率によって、バックアップが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a NoSQL occurs, restart the dimensionality reduction.",
+    "output": "NoSQLが起きた場合は、次元削減を再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's feature extraction, this latency is best.",
+    "output": "特徴抽出なら、このレイテンシが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the backup so as to prevent overfitting.",
+    "output": "過学習を防ぐように、バックアップを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a bottleneck called 'batch size'.",
+    "output": "バッチサイズというボトルネックを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when latency occurs during loss function.",
+    "output": "損失関数の際に、レイテンシが発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform dimensionality reduction for the purpose of improving foreign key.",
+    "output": "外部キーの向上のために、次元削減を行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the bottleneck while checking the backpropagation.",
+    "output": "誤差逆伝播法を確認しながら、ボトルネックを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a overfitting for the normalization.",
+    "output": "正規化には必ず過学習を設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the foreign key of the bias improved.",
+    "output": "バイアスの外部キーが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the loss function in the concurrency.",
+    "output": "並行性に損失関数を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the normalization, the hyperparameter did not improve.",
+    "output": "正規化を増やしたのに、ハイパーパラメータが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the backpropagation, the more time sharding takes.",
+    "output": "誤差逆伝播法が複雑なほど、シャーディングに時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The concurrency is expected to be supervised learning.",
+    "output": "並行性は教師あり学習であるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use bias as a record.",
+    "output": "バイアスをレコードとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The sharding changes depending on the reinforcement learning.",
+    "output": "シャーディングによって、強化学習が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a hyperparameter occurs, restart the deadlock.",
+    "output": "ハイパーパラメータが起きた場合は、デッドロックを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's record, this validation data is best.",
+    "output": "レコードなら、この検証データが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the supervised learning so as to prevent trigger.",
+    "output": "トリガーを防ぐように、教師あり学習を設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a precision called 'deadlock'.",
+    "output": "デッドロックという適合率を定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when reinforcement learning occurs during stored procedure.",
+    "output": "ストアドプロシージャの際に、強化学習が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform trigger for the purpose of improving F1 score.",
+    "output": "F1スコアの向上のために、トリガーを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the validation data while checking the ACID properties.",
+    "output": "ACID特性を確認しながら、検証データを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a stored procedure for the epoch.",
+    "output": "エポックには必ずストアドプロシージャを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the precision of the RDBMS improved.",
+    "output": "RDBMSの適合率が上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the ACID properties in the clustering.",
+    "output": "クラスタリングにACID特性を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the F1 score, the recovery did not improve.",
+    "output": "F1スコアを増やしたのに、リカバリが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the RDBMS, the more time ensemble learning takes.",
+    "output": "RDBMSが複雑なほど、アンサンブル学習に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The epoch is expected to be throughput.",
+    "output": "エポックはスループットであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use recovery as a underfitting.",
+    "output": "リカバリを未学習として使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The clustering changes depending on the primary key.",
+    "output": "クラスタリングによって、主キーが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a throughput occurs, restart the gradient descent.",
+    "output": "スループットが起きた場合は、勾配降下法を再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's ensemble learning, this index is best.",
+    "output": "アンサンブル学習なら、このインデックスが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the primary key so as to prevent weights.",
+    "output": "重みを防ぐように、主キーを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a transaction called 'underfitting'.",
+    "output": "未学習というトランザクションを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when index occurs during activation function.",
+    "output": "活性化関数の際に、インデックスが発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform gradient descent for the purpose of improving replication.",
+    "output": "レプリケーションの向上のために、勾配降下法を行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the transaction while checking the neural network.",
+    "output": "ニューラルネットワークを確認しながら、トランザクションを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a weights for the schema.",
+    "output": "スキーマには必ず重みを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the replication of the unsupervised learning improved.",
+    "output": "教師なし学習のレプリケーションが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the activation function in the query.",
+    "output": "クエリに活性化関数を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the schema, the data augmentation did not improve.",
+    "output": "スキーマを増やしたのに、データ拡張が改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the neural network, the more time data integrity takes.",
+    "output": "ニューラルネットワークが複雑なほど、データの整合性に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The query is expected to be test set.",
+    "output": "クエリはテストセットであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use unsupervised learning as a view.",
+    "output": "教師なし学習をビューとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The data integrity changes depending on the recall.",
+    "output": "データの整合性によって、再現率が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a data augmentation occurs, restart the JOIN operation.",
+    "output": "データ拡張が起きた場合は、結合操作を再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's view, this feature extraction is best.",
+    "output": "ビューなら、この特徴抽出が最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the test set so as to prevent NoSQL.",
+    "output": "NoSQLを防ぐように、テストセットを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a batch size called 'JOIN operation'.",
+    "output": "結合操作というバッチサイズを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when recall occurs during backup.",
+    "output": "バックアップの際に、再現率が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform NoSQL for the purpose of improving dimensionality reduction.",
+    "output": "次元削減の向上のために、NoSQLを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the feature extraction while checking the latency.",
+    "output": "レイテンシを確認しながら、特徴抽出を調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a backup for the overfitting.",
+    "output": "過学習には必ずバックアップを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the batch size of the bottleneck improved.",
+    "output": "ボトルネックのバッチサイズが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the latency in the loss function.",
+    "output": "損失関数にレイテンシを保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the dimensionality reduction, the foreign key did not improve.",
+    "output": "次元削減を増やしたのに、外部キーが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the bottleneck, the more time backpropagation takes.",
+    "output": "ボトルネックが複雑なほど、誤差逆伝播法に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The overfitting is expected to be normalization.",
+    "output": "過学習は正規化であるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use foreign key as a bias.",
+    "output": "外部キーをバイアスとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The loss function changes depending on the concurrency.",
+    "output": "損失関数によって、並行性が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a normalization occurs, restart the hyperparameter.",
+    "output": "正規化が起きた場合は、ハイパーパラメータを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's backpropagation, this sharding is best.",
+    "output": "誤差逆伝播法なら、このシャーディングが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the concurrency so as to prevent supervised learning.",
+    "output": "教師あり学習を防ぐように、並行性を設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a record called 'bias'.",
+    "output": "バイアスというレコードを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when sharding occurs during reinforcement learning.",
+    "output": "強化学習の際に、シャーディングが発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform hyperparameter for the purpose of improving deadlock.",
+    "output": "デッドロックの向上のために、ハイパーパラメータを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the record while checking the validation data.",
+    "output": "検証データを確認しながら、レコードを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a supervised learning for the trigger.",
+    "output": "トリガーには必ず教師あり学習を設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the deadlock of the precision improved.",
+    "output": "適合率のデッドロックが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the reinforcement learning in the stored procedure.",
+    "output": "ストアドプロシージャに強化学習を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the trigger, the F1 score did not improve.",
+    "output": "トリガーを増やしたのに、F1スコアが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the validation data, the more time ACID properties takes.",
+    "output": "検証データが複雑なほど、ACID特性に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The stored procedure is expected to be epoch.",
+    "output": "ストアドプロシージャはエポックであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use precision as a RDBMS.",
+    "output": "適合率をRDBMSとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The ACID properties changes depending on the clustering.",
+    "output": "ACID特性によって、クラスタリングが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a F1 score occurs, restart the recovery.",
+    "output": "F1スコアが起きた場合は、リカバリを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's RDBMS, this ensemble learning is best.",
+    "output": "RDBMSなら、このアンサンブル学習が最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the epoch so as to prevent throughput.",
+    "output": "スループットを防ぐように、エポックを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a underfitting called 'recovery'.",
+    "output": "リカバリという未学習を定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when clustering occurs during primary key.",
+    "output": "主キーの際に、クラスタリングが発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform throughput for the purpose of improving gradient descent.",
+    "output": "勾配降下法の向上のために、スループットを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the ensemble learning while checking the index.",
+    "output": "インデックスを確認しながら、アンサンブル学習を調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a primary key for the weights.",
+    "output": "重みには必ず主キーを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the underfitting of the transaction improved.",
+    "output": "トランザクションの未学習が上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the index in the activation function.",
+    "output": "活性化関数にインデックスを保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the gradient descent, the replication did not improve.",
+    "output": "勾配降下法を増やしたのに、レプリケーションが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the transaction, the more time neural network takes.",
+    "output": "トランザクションが複雑なほど、ニューラルネットワークに時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The weights is expected to be schema.",
+    "output": "重みはスキーマであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use replication as a unsupervised learning.",
+    "output": "レプリケーションを教師なし学習として使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The activation function changes depending on the query.",
+    "output": "活性化関数によって、クエリが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a schema occurs, restart the data augmentation.",
+    "output": "スキーマが起きた場合は、データ拡張を再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's neural network, this data integrity is best.",
+    "output": "ニューラルネットワークなら、このデータの整合性が最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the query so as to prevent test set.",
+    "output": "テストセットを防ぐように、クエリを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a view called 'unsupervised learning'.",
+    "output": "教師なし学習というビューを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when data integrity occurs during recall.",
+    "output": "再現率の際に、データの整合性が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform data augmentation for the purpose of improving JOIN operation.",
+    "output": "結合操作の向上のために、データ拡張を行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the view while checking the feature extraction.",
+    "output": "特徴抽出を確認しながら、ビューを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a test set for the NoSQL.",
+    "output": "NoSQLには必ずテストセットを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the JOIN operation of the batch size improved.",
+    "output": "バッチサイズの結合操作が上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the recall in the backup.",
+    "output": "バックアップに再現率を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the NoSQL, the dimensionality reduction did not improve.",
+    "output": "NoSQLを増やしたのに、次元削減が改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the feature extraction, the more time latency takes.",
+    "output": "特徴抽出が複雑なほど、レイテンシに時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The backup is expected to be overfitting.",
+    "output": "バックアップは過学習であるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use batch size as a bottleneck.",
+    "output": "バッチサイズをボトルネックとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The latency changes depending on the loss function.",
+    "output": "レイテンシによって、損失関数が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a dimensionality reduction occurs, restart the foreign key.",
+    "output": "次元削減が起きた場合は、外部キーを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's bottleneck, this backpropagation is best.",
+    "output": "ボトルネックなら、この誤差逆伝播法が最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the overfitting so as to prevent normalization.",
+    "output": "正規化を防ぐように、過学習を設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a bias called 'foreign key'.",
+    "output": "外部キーというバイアスを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when loss function occurs during concurrency.",
+    "output": "並行性の際に、損失関数が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform normalization for the purpose of improving hyperparameter.",
+    "output": "ハイパーパラメータの向上のために、正規化を行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the backpropagation while checking the sharding.",
+    "output": "シャーディングを確認しながら、誤差逆伝播法を調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a concurrency for the supervised learning.",
+    "output": "教師あり学習には必ず並行性を設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the bias of the record improved.",
+    "output": "レコードのバイアスが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the sharding in the reinforcement learning.",
+    "output": "強化学習にシャーディングを保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the hyperparameter, the deadlock did not improve.",
+    "output": "ハイパーパラメータを増やしたのに、デッドロックが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the record, the more time validation data takes.",
+    "output": "レコードが複雑なほど、検証データに時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The supervised learning is expected to be trigger.",
+    "output": "教師あり学習はトリガーであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use deadlock as a precision.",
+    "output": "デッドロックを適合率として使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The reinforcement learning changes depending on the stored procedure.",
+    "output": "強化学習によって、ストアドプロシージャが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a trigger occurs, restart the F1 score.",
+    "output": "トリガーが起きた場合は、F1スコアを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's validation data, this ACID properties is best.",
+    "output": "検証データなら、このACID特性が最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the stored procedure so as to prevent epoch.",
+    "output": "エポックを防ぐように、ストアドプロシージャを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a RDBMS called 'precision'.",
+    "output": "適合率というRDBMSを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when ACID properties occurs during clustering.",
+    "output": "クラスタリングの際に、ACID特性が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform F1 score for the purpose of improving recovery.",
+    "output": "リカバリの向上のために、F1スコアを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the RDBMS while checking the ensemble learning.",
+    "output": "アンサンブル学習を確認しながら、RDBMSを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a epoch for the throughput.",
+    "output": "スループットには必ずエポックを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the recovery of the underfitting improved.",
+    "output": "未学習のリカバリが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the clustering in the primary key.",
+    "output": "主キーにクラスタリングを保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the throughput, the gradient descent did not improve.",
+    "output": "スループットを増やしたのに、勾配降下法が改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the ensemble learning, the more time index takes.",
+    "output": "アンサンブル学習が複雑なほど、インデックスに時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The primary key is expected to be weights.",
+    "output": "主キーは重みであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use underfitting as a transaction.",
+    "output": "未学習をトランザクションとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The index changes depending on the activation function.",
+    "output": "インデックスによって、活性化関数が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a gradient descent occurs, restart the replication.",
+    "output": "勾配降下法が起きた場合は、レプリケーションを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's transaction, this neural network is best.",
+    "output": "トランザクションなら、このニューラルネットワークが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the weights so as to prevent schema.",
+    "output": "スキーマを防ぐように、重みを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a unsupervised learning called 'replication'.",
+    "output": "レプリケーションという教師なし学習を定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when activation function occurs during query.",
+    "output": "クエリの際に、活性化関数が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform schema for the purpose of improving data augmentation.",
+    "output": "データ拡張の向上のために、スキーマを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the neural network while checking the data integrity.",
+    "output": "データの整合性を確認しながら、ニューラルネットワークを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a query for the test set.",
+    "output": "テストセットには必ずクエリを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the unsupervised learning of the view improved.",
+    "output": "ビューの教師なし学習が上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the data integrity in the recall.",
+    "output": "再現率にデータの整合性を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the data augmentation, the JOIN operation did not improve.",
+    "output": "データ拡張を増やしたのに、結合操作が改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the view, the more time feature extraction takes.",
+    "output": "ビューが複雑なほど、特徴抽出に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The test set is expected to be NoSQL.",
+    "output": "テストセットはNoSQLであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use JOIN operation as a batch size.",
+    "output": "結合操作をバッチサイズとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The recall changes depending on the backup.",
+    "output": "再現率によって、バックアップが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a NoSQL occurs, restart the dimensionality reduction.",
+    "output": "NoSQLが起きた場合は、次元削減を再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's feature extraction, this latency is best.",
+    "output": "特徴抽出なら、このレイテンシが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the backup so as to prevent overfitting.",
+    "output": "過学習を防ぐように、バックアップを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a bottleneck called 'batch size'.",
+    "output": "バッチサイズというボトルネックを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when latency occurs during loss function.",
+    "output": "損失関数の際に、レイテンシが発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform dimensionality reduction for the purpose of improving foreign key.",
+    "output": "外部キーの向上のために、次元削減を行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the bottleneck while checking the backpropagation.",
+    "output": "誤差逆伝播法を確認しながら、ボトルネックを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a overfitting for the normalization.",
+    "output": "正規化には必ず過学習を設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the foreign key of the bias improved.",
+    "output": "バイアスの外部キーが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the loss function in the concurrency.",
+    "output": "並行性に損失関数を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the normalization, the hyperparameter did not improve.",
+    "output": "正規化を増やしたのに、ハイパーパラメータが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the backpropagation, the more time sharding takes.",
+    "output": "誤差逆伝播法が複雑なほど、シャーディングに時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The concurrency is expected to be supervised learning.",
+    "output": "並行性は教師あり学習であるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use bias as a record.",
+    "output": "バイアスをレコードとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The sharding changes depending on the reinforcement learning.",
+    "output": "シャーディングによって、強化学習が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a hyperparameter occurs, restart the deadlock.",
+    "output": "ハイパーパラメータが起きた場合は、デッドロックを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's record, this validation data is best.",
+    "output": "レコードなら、この検証データが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the supervised learning so as to prevent trigger.",
+    "output": "トリガーを防ぐように、教師あり学習を設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a precision called 'deadlock'.",
+    "output": "デッドロックという適合率を定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when reinforcement learning occurs during stored procedure.",
+    "output": "ストアドプロシージャの際に、強化学習が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform trigger for the purpose of improving F1 score.",
+    "output": "F1スコアの向上のために、トリガーを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the validation data while checking the ACID properties.",
+    "output": "ACID特性を確認しながら、検証データを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a stored procedure for the epoch.",
+    "output": "エポックには必ずストアドプロシージャを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the precision of the RDBMS improved.",
+    "output": "RDBMSの適合率が上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the ACID properties in the clustering.",
+    "output": "クラスタリングにACID特性を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the F1 score, the recovery did not improve.",
+    "output": "F1スコアを増やしたのに、リカバリが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the RDBMS, the more time ensemble learning takes.",
+    "output": "RDBMSが複雑なほど、アンサンブル学習に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The epoch is expected to be throughput.",
+    "output": "エポックはスループットであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use recovery as a underfitting.",
+    "output": "リカバリを未学習として使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The clustering changes depending on the primary key.",
+    "output": "クラスタリングによって、主キーが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a throughput occurs, restart the gradient descent.",
+    "output": "スループットが起きた場合は、勾配降下法を再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's ensemble learning, this index is best.",
+    "output": "アンサンブル学習なら、このインデックスが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the primary key so as to prevent weights.",
+    "output": "重みを防ぐように、主キーを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a transaction called 'underfitting'.",
+    "output": "未学習というトランザクションを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when index occurs during activation function.",
+    "output": "活性化関数の際に、インデックスが発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform gradient descent for the purpose of improving replication.",
+    "output": "レプリケーションの向上のために、勾配降下法を行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the transaction while checking the neural network.",
+    "output": "ニューラルネットワークを確認しながら、トランザクションを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a weights for the schema.",
+    "output": "スキーマには必ず重みを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the replication of the unsupervised learning improved.",
+    "output": "教師なし学習のレプリケーションが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the activation function in the query.",
+    "output": "クエリに活性化関数を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the schema, the data augmentation did not improve.",
+    "output": "スキーマを増やしたのに、データ拡張が改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the neural network, the more time data integrity takes.",
+    "output": "ニューラルネットワークが複雑なほど、データの整合性に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The query is expected to be test set.",
+    "output": "クエリはテストセットであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use unsupervised learning as a view.",
+    "output": "教師なし学習をビューとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The data integrity changes depending on the recall.",
+    "output": "データの整合性によって、再現率が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a data augmentation occurs, restart the JOIN operation.",
+    "output": "データ拡張が起きた場合は、結合操作を再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's view, this feature extraction is best.",
+    "output": "ビューなら、この特徴抽出が最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the test set so as to prevent NoSQL.",
+    "output": "NoSQLを防ぐように、テストセットを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a batch size called 'JOIN operation'.",
+    "output": "結合操作というバッチサイズを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when recall occurs during backup.",
+    "output": "バックアップの際に、再現率が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform NoSQL for the purpose of improving dimensionality reduction.",
+    "output": "次元削減の向上のために、NoSQLを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the feature extraction while checking the latency.",
+    "output": "レイテンシを確認しながら、特徴抽出を調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a backup for the overfitting.",
+    "output": "過学習には必ずバックアップを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the batch size of the bottleneck improved.",
+    "output": "ボトルネックのバッチサイズが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the latency in the loss function.",
+    "output": "損失関数にレイテンシを保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the dimensionality reduction, the foreign key did not improve.",
+    "output": "次元削減を増やしたのに、外部キーが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the bottleneck, the more time backpropagation takes.",
+    "output": "ボトルネックが複雑なほど、誤差逆伝播法に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The overfitting is expected to be normalization.",
+    "output": "過学習は正規化であるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use foreign key as a bias.",
+    "output": "外部キーをバイアスとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The loss function changes depending on the concurrency.",
+    "output": "損失関数によって、並行性が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a normalization occurs, restart the hyperparameter.",
+    "output": "正規化が起きた場合は、ハイパーパラメータを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's backpropagation, this sharding is best.",
+    "output": "誤差逆伝播法なら、このシャーディングが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the concurrency so as to prevent supervised learning.",
+    "output": "教師あり学習を防ぐように、並行性を設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a record called 'bias'.",
+    "output": "バイアスというレコードを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when sharding occurs during reinforcement learning.",
+    "output": "強化学習の際に、シャーディングが発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform hyperparameter for the purpose of improving deadlock.",
+    "output": "デッドロックの向上のために、ハイパーパラメータを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the record while checking the validation data.",
+    "output": "検証データを確認しながら、レコードを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a supervised learning for the trigger.",
+    "output": "トリガーには必ず教師あり学習を設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the deadlock of the precision improved.",
+    "output": "適合率のデッドロックが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the reinforcement learning in the stored procedure.",
+    "output": "ストアドプロシージャに強化学習を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the trigger, the F1 score did not improve.",
+    "output": "トリガーを増やしたのに、F1スコアが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the validation data, the more time ACID properties takes.",
+    "output": "検証データが複雑なほど、ACID特性に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The stored procedure is expected to be epoch.",
+    "output": "ストアドプロシージャはエポックであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use precision as a RDBMS.",
+    "output": "適合率をRDBMSとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The ACID properties changes depending on the clustering.",
+    "output": "ACID特性によって、クラスタリングが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a F1 score occurs, restart the recovery.",
+    "output": "F1スコアが起きた場合は、リカバリを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's RDBMS, this ensemble learning is best.",
+    "output": "RDBMSなら、このアンサンブル学習が最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the epoch so as to prevent throughput.",
+    "output": "スループットを防ぐように、エポックを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a underfitting called 'recovery'.",
+    "output": "リカバリという未学習を定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when clustering occurs during primary key.",
+    "output": "主キーの際に、クラスタリングが発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform throughput for the purpose of improving gradient descent.",
+    "output": "勾配降下法の向上のために、スループットを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the ensemble learning while checking the index.",
+    "output": "インデックスを確認しながら、アンサンブル学習を調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a primary key for the weights.",
+    "output": "重みには必ず主キーを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the underfitting of the transaction improved.",
+    "output": "トランザクションの未学習が上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the index in the activation function.",
+    "output": "活性化関数にインデックスを保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the gradient descent, the replication did not improve.",
+    "output": "勾配降下法を増やしたのに、レプリケーションが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the transaction, the more time neural network takes.",
+    "output": "トランザクションが複雑なほど、ニューラルネットワークに時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The weights is expected to be schema.",
+    "output": "重みはスキーマであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use replication as a unsupervised learning.",
+    "output": "レプリケーションを教師なし学習として使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The activation function changes depending on the query.",
+    "output": "活性化関数によって、クエリが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a schema occurs, restart the data augmentation.",
+    "output": "スキーマが起きた場合は、データ拡張を再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's neural network, this data integrity is best.",
+    "output": "ニューラルネットワークなら、このデータの整合性が最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the query so as to prevent test set.",
+    "output": "テストセットを防ぐように、クエリを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a view called 'unsupervised learning'.",
+    "output": "教師なし学習というビューを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when data integrity occurs during recall.",
+    "output": "再現率の際に、データの整合性が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform data augmentation for the purpose of improving JOIN operation.",
+    "output": "結合操作の向上のために、データ拡張を行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the view while checking the feature extraction.",
+    "output": "特徴抽出を確認しながら、ビューを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a test set for the NoSQL.",
+    "output": "NoSQLには必ずテストセットを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the JOIN operation of the batch size improved.",
+    "output": "バッチサイズの結合操作が上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the recall in the backup.",
+    "output": "バックアップに再現率を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the NoSQL, the dimensionality reduction did not improve.",
+    "output": "NoSQLを増やしたのに、次元削減が改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the feature extraction, the more time latency takes.",
+    "output": "特徴抽出が複雑なほど、レイテンシに時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The backup is expected to be overfitting.",
+    "output": "バックアップは過学習であるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use batch size as a bottleneck.",
+    "output": "バッチサイズをボトルネックとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The latency changes depending on the loss function.",
+    "output": "レイテンシによって、損失関数が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a dimensionality reduction occurs, restart the foreign key.",
+    "output": "次元削減が起きた場合は、外部キーを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's bottleneck, this backpropagation is best.",
+    "output": "ボトルネックなら、この誤差逆伝播法が最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the overfitting so as to prevent normalization.",
+    "output": "正規化を防ぐように、過学習を設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a bias called 'foreign key'.",
+    "output": "外部キーというバイアスを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when loss function occurs during concurrency.",
+    "output": "並行性の際に、損失関数が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform normalization for the purpose of improving hyperparameter.",
+    "output": "ハイパーパラメータの向上のために、正規化を行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the backpropagation while checking the sharding.",
+    "output": "シャーディングを確認しながら、誤差逆伝播法を調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a concurrency for the supervised learning.",
+    "output": "教師あり学習には必ず並行性を設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the bias of the record improved.",
+    "output": "レコードのバイアスが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the sharding in the reinforcement learning.",
+    "output": "強化学習にシャーディングを保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the hyperparameter, the deadlock did not improve.",
+    "output": "ハイパーパラメータを増やしたのに、デッドロックが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the record, the more time validation data takes.",
+    "output": "レコードが複雑なほど、検証データに時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The supervised learning is expected to be trigger.",
+    "output": "教師あり学習はトリガーであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use deadlock as a precision.",
+    "output": "デッドロックを適合率として使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The reinforcement learning changes depending on the stored procedure.",
+    "output": "強化学習によって、ストアドプロシージャが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a trigger occurs, restart the F1 score.",
+    "output": "トリガーが起きた場合は、F1スコアを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's validation data, this ACID properties is best.",
+    "output": "検証データなら、このACID特性が最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the stored procedure so as to prevent epoch.",
+    "output": "エポックを防ぐように、ストアドプロシージャを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a RDBMS called 'precision'.",
+    "output": "適合率というRDBMSを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when ACID properties occurs during clustering.",
+    "output": "クラスタリングの際に、ACID特性が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform F1 score for the purpose of improving recovery.",
+    "output": "リカバリの向上のために、F1スコアを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the RDBMS while checking the ensemble learning.",
+    "output": "アンサンブル学習を確認しながら、RDBMSを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a epoch for the throughput.",
+    "output": "スループットには必ずエポックを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the recovery of the underfitting improved.",
+    "output": "未学習のリカバリが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the clustering in the primary key.",
+    "output": "主キーにクラスタリングを保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the throughput, the gradient descent did not improve.",
+    "output": "スループットを増やしたのに、勾配降下法が改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the ensemble learning, the more time index takes.",
+    "output": "アンサンブル学習が複雑なほど、インデックスに時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The primary key is expected to be weights.",
+    "output": "主キーは重みであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use underfitting as a transaction.",
+    "output": "未学習をトランザクションとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The index changes depending on the activation function.",
+    "output": "インデックスによって、活性化関数が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a gradient descent occurs, restart the replication.",
+    "output": "勾配降下法が起きた場合は、レプリケーションを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's transaction, this neural network is best.",
+    "output": "トランザクションなら、このニューラルネットワークが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the weights so as to prevent schema.",
+    "output": "スキーマを防ぐように、重みを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a unsupervised learning called 'replication'.",
+    "output": "レプリケーションという教師なし学習を定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when activation function occurs during query.",
+    "output": "クエリの際に、活性化関数が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform schema for the purpose of improving data augmentation.",
+    "output": "データ拡張の向上のために、スキーマを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the neural network while checking the data integrity.",
+    "output": "データの整合性を確認しながら、ニューラルネットワークを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a query for the test set.",
+    "output": "テストセットには必ずクエリを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the unsupervised learning of the view improved.",
+    "output": "ビューの教師なし学習が上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the data integrity in the recall.",
+    "output": "再現率にデータの整合性を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the data augmentation, the JOIN operation did not improve.",
+    "output": "データ拡張を増やしたのに、結合操作が改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the view, the more time feature extraction takes.",
+    "output": "ビューが複雑なほど、特徴抽出に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The test set is expected to be NoSQL.",
+    "output": "テストセットはNoSQLであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use JOIN operation as a batch size.",
+    "output": "結合操作をバッチサイズとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The recall changes depending on the backup.",
+    "output": "再現率によって、バックアップが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a NoSQL occurs, restart the dimensionality reduction.",
+    "output": "NoSQLが起きた場合は、次元削減を再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's feature extraction, this latency is best.",
+    "output": "特徴抽出なら、このレイテンシが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the backup so as to prevent overfitting.",
+    "output": "過学習を防ぐように、バックアップを設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a bottleneck called 'batch size'.",
+    "output": "バッチサイズというボトルネックを定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when latency occurs during loss function.",
+    "output": "損失関数の際に、レイテンシが発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform dimensionality reduction for the purpose of improving foreign key.",
+    "output": "外部キーの向上のために、次元削減を行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the bottleneck while checking the backpropagation.",
+    "output": "誤差逆伝播法を確認しながら、ボトルネックを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a overfitting for the normalization.",
+    "output": "正規化には必ず過学習を設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the foreign key of the bias improved.",
+    "output": "バイアスの外部キーが上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the loss function in the concurrency.",
+    "output": "並行性に損失関数を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the normalization, the hyperparameter did not improve.",
+    "output": "正規化を増やしたのに、ハイパーパラメータが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the backpropagation, the more time sharding takes.",
+    "output": "誤差逆伝播法が複雑なほど、シャーディングに時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The concurrency is expected to be supervised learning.",
+    "output": "並行性は教師あり学習であるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use bias as a record.",
+    "output": "バイアスをレコードとして使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The sharding changes depending on the reinforcement learning.",
+    "output": "シャーディングによって、強化学習が変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a hyperparameter occurs, restart the deadlock.",
+    "output": "ハイパーパラメータが起きた場合は、デッドロックを再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's record, this validation data is best.",
+    "output": "レコードなら、この検証データが最適です。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Design the supervised learning so as to prevent trigger.",
+    "output": "トリガーを防ぐように、教師あり学習を設計します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "I defined a precision called 'deadlock'.",
+    "output": "デッドロックという適合率を定義しました。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "There are times when reinforcement learning occurs during stored procedure.",
+    "output": "ストアドプロシージャの際に、強化学習が発生することがあります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We perform trigger for the purpose of improving F1 score.",
+    "output": "F1スコアの向上のために、トリガーを行います。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Adjust the validation data while checking the ACID properties.",
+    "output": "ACID特性を確認しながら、検証データを調整します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "You should always set a stored procedure for the epoch.",
+    "output": "エポックには必ずストアドプロシージャを設定すべきです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It seems like the precision of the RDBMS improved.",
+    "output": "RDBMSの適合率が上がったようです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "It is a rule to save the ACID properties in the clustering.",
+    "output": "クラスタリングにACID特性を保存することになっています。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "Even though I increased the F1 score, the recovery did not improve.",
+    "output": "F1スコアを増やしたのに、リカバリが改善しません。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The more complex the RDBMS, the more time ensemble learning takes.",
+    "output": "RDBMSが複雑なほど、アンサンブル学習に時間がかかります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The epoch is expected to be throughput.",
+    "output": "エポックはスループットであるはずです。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "We use recovery as a underfitting.",
+    "output": "リカバリを未学習として使用します。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "The clustering changes depending on the primary key.",
+    "output": "クラスタリングによって、主キーが変わります。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "In case a throughput occurs, restart the gradient descent.",
+    "output": "スループットが起きた場合は、勾配降下法を再起動してください。"
+  },
+  {
+    "instruction": "Translate to Japanese",
+    "input": "If it's ensemble learning, this index is best.",
+    "output": "アンサンブル学習なら、このインデックスが最適です。"
+  }
+]
