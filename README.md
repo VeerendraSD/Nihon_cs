@@ -1,4 +1,4 @@
-#Nihon-CS: Optimized Llama-3 Translator for Technical Japanese
+# Nihon-CS: Optimized Llama-3 Translator for Technical Japanese
 
 **Nihon-CS** is a domain-specific Large Language Model (LLM) fine-tuned to bridge the gap between English Computer Science terminology and polite Japanese (**Minna no Nihongo** style). 
 
